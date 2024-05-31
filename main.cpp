@@ -1,11 +1,12 @@
 #include <stdio.h>
+#include <iostream>
 #include <vector>
-#include <string>
+#include <algorithm>
 using namespace std;
 
 int main() {
 
-	vector<string> bango = {
+	vector<string> meibo = {
 		"k022g0108@g.neec.ac.jp", "k022g0045@g.neec.ac.jp", "k022g0007@g.neec.ac.jp",
 		"k022g0015@g.neec.ac.jp", "k022g0028@g.neec.ac.jp", "k022g0049@g.neec.ac.jp",
 		"k022g0003@g.neec.ac.jp", "k022g0044@g.neec.ac.jp", "k022g0072@g.neec.ac.jp",
@@ -47,7 +48,26 @@ int main() {
 		"k022g0074@g.neec.ac.jp", "k022g0012@g.neec.ac.jp", "k022g0001@g.neec.ac.jp"
 	};
 
+	cout << "全要素を表示します(ソート前)" << endl;
 
+	// 全要素を表示
+	for (int i = 0; i < meibo.size(); i++)
+	{
+		cout << meibo[i] << endl;
+	}
+
+	// 昇順に並べ替え
+	cout << endl << "全要素をソートします" << endl << endl;
+
+	sort(meibo.begin(), meibo.end());
+
+	cout << "全要素を表示します(ソート後)" << endl;
+
+	// 全要素を表示
+	for (int i = 0; i < meibo.size(); i++)
+	{
+		cout << meibo[i] << endl;
+	}
 
 	return 0;
 }
