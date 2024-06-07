@@ -1,18 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\MAINGO SHIZUKA\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\PG3_\u8AB2\u984C\u30D5\u30A9\u30EB\u30C0\\PG3_assignment\\",
+  "WorkspaceRootPath": "C:\\Users\\MAINGO SHIZUKA\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\\u65E5\u672C\u5DE5\u5B66\u9662\u5C02\u9580\u5B66\u6821\\PG3_\u8AB2\u984C\u30D5\u30A9\u30EB\u30C0\\PG3_assignment\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C7514B2F-737F-4778-9E38-172802920F1E}|PG3.vcxproj|C:\\Users\\MAINGO SHIZUKA\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\PG3_\u8AB2\u984C\u30D5\u30A9\u30EB\u30C0\\PG3_assignment\\Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{C7514B2F-737F-4778-9E38-172802920F1E}|PG3.vcxproj|C:\\Users\\MAINGO SHIZUKA\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\\u65E5\u672C\u5DE5\u5B66\u9662\u5C02\u9580\u5B66\u6821\\PG3_\u8AB2\u984C\u30D5\u30A9\u30EB\u30C0\\PG3_assignment\\Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C7514B2F-737F-4778-9E38-172802920F1E}|PG3.vcxproj|solutionrelative:Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7514B2F-737F-4778-9E38-172802920F1E}|PG3.vcxproj|C:\\Users\\MAINGO SHIZUKA\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\PG3_\u8AB2\u984C\u30D5\u30A9\u30EB\u30C0\\PG3_assignment\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{C7514B2F-737F-4778-9E38-172802920F1E}|PG3.vcxproj|C:\\Users\\MAINGO SHIZUKA\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\\u65E5\u672C\u5DE5\u5B66\u9662\u5C02\u9580\u5B66\u6821\\PG3_\u8AB2\u984C\u30D5\u30A9\u30EB\u30C0\\PG3_assignment\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C7514B2F-737F-4778-9E38-172802920F1E}|PG3.vcxproj|solutionrelative:Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7514B2F-737F-4778-9E38-172802920F1E}|PG3.vcxproj|C:\\Users\\MAINGO SHIZUKA\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\\u65E5\u672C\u5DE5\u5B66\u9662\u5C02\u9580\u5B66\u6821\\PG3_\u8AB2\u984C\u30D5\u30A9\u30EB\u30C0\\PG3_assignment\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C7514B2F-737F-4778-9E38-172802920F1E}|PG3.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7514B2F-737F-4778-9E38-172802920F1E}|PG3.vcxproj|C:\\Users\\MAINGO SHIZUKA\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\PG3_\u8AB2\u984C\u30D5\u30A9\u30EB\u30C0\\PG3_assignment\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C7514B2F-737F-4778-9E38-172802920F1E}|PG3.vcxproj|solutionrelative:Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MAINGO SHIZUKA\\Downloads\\main4-1\u30D2\u30F3\u30C8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +25,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,39 +37,52 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main4-1\u30D2\u30F3\u30C8.cpp",
+              "DocumentMoniker": "C:\\Users\\MAINGO SHIZUKA\\Downloads\\main4-1\u30D2\u30F3\u30C8.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\main4-1\u30D2\u30F3\u30C8.cpp",
+              "ToolTip": "C:\\Users\\MAINGO SHIZUKA\\Downloads\\main4-1\u30D2\u30F3\u30C8.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Downloads\\main4-1\u30D2\u30F3\u30C8.cpp",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-07T03:37:12.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Enemy.cpp",
-              "DocumentMoniker": "C:\\Users\\MAINGO SHIZUKA\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\PG3_\u8AB2\u984C\u30D5\u30A9\u30EB\u30C0\\PG3_assignment\\Enemy.cpp",
+              "DocumentMoniker": "C:\\Users\\MAINGO SHIZUKA\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\\u65E5\u672C\u5DE5\u5B66\u9662\u5C02\u9580\u5B66\u6821\\PG3_\u8AB2\u984C\u30D5\u30A9\u30EB\u30C0\\PG3_assignment\\Enemy.cpp",
               "RelativeDocumentMoniker": "Enemy.cpp",
-              "ToolTip": "C:\\Users\\MAINGO SHIZUKA\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\PG3_\u8AB2\u984C\u30D5\u30A9\u30EB\u30C0\\PG3_assignment\\Enemy.cpp",
+              "ToolTip": "C:\\Users\\MAINGO SHIZUKA\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\\u65E5\u672C\u5DE5\u5B66\u9662\u5C02\u9580\u5B66\u6821\\PG3_\u8AB2\u984C\u30D5\u30A9\u30EB\u30C0\\PG3_assignment\\Enemy.cpp",
               "RelativeToolTip": "Enemy.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAKAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-05-31T03:37:14.543Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Enemy.h",
-              "DocumentMoniker": "C:\\Users\\MAINGO SHIZUKA\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\PG3_\u8AB2\u984C\u30D5\u30A9\u30EB\u30C0\\PG3_assignment\\Enemy.h",
+              "DocumentMoniker": "C:\\Users\\MAINGO SHIZUKA\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\\u65E5\u672C\u5DE5\u5B66\u9662\u5C02\u9580\u5B66\u6821\\PG3_\u8AB2\u984C\u30D5\u30A9\u30EB\u30C0\\PG3_assignment\\Enemy.h",
               "RelativeDocumentMoniker": "Enemy.h",
-              "ToolTip": "C:\\Users\\MAINGO SHIZUKA\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\PG3_\u8AB2\u984C\u30D5\u30A9\u30EB\u30C0\\PG3_assignment\\Enemy.h",
+              "ToolTip": "C:\\Users\\MAINGO SHIZUKA\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\\u65E5\u672C\u5DE5\u5B66\u9662\u5C02\u9580\u5B66\u6821\\PG3_\u8AB2\u984C\u30D5\u30A9\u30EB\u30C0\\PG3_assignment\\Enemy.h",
               "RelativeToolTip": "Enemy.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAATAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-05-31T03:36:12.635Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\MAINGO SHIZUKA\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\PG3_\u8AB2\u984C\u30D5\u30A9\u30EB\u30C0\\PG3_assignment\\main.cpp",
+              "DocumentMoniker": "C:\\Users\\MAINGO SHIZUKA\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\\u65E5\u672C\u5DE5\u5B66\u9662\u5C02\u9580\u5B66\u6821\\PG3_\u8AB2\u984C\u30D5\u30A9\u30EB\u30C0\\PG3_assignment\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "C:\\Users\\MAINGO SHIZUKA\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\PG3_\u8AB2\u984C\u30D5\u30A9\u30EB\u30C0\\PG3_assignment\\main.cpp",
+              "ToolTip": "C:\\Users\\MAINGO SHIZUKA\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\\u65E5\u672C\u5DE5\u5B66\u9662\u5C02\u9580\u5B66\u6821\\PG3_\u8AB2\u984C\u30D5\u30A9\u30EB\u30C0\\PG3_assignment\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-05-31T03:07:45.149Z",
               "EditorCaption": ""

@@ -5,9 +5,13 @@ public:
 	void Sekkin();//Ú‹ß
 	void Syageki();//ËŒ‚
 	void Ridatu();//—£’E
-	void Update();
 
 	static void(Enemy::* spEnemyTable[])();
+
+	void Update();
+
 private:
 	int index = 0;
+	int a = 0;
+	int b = 0;
 };
