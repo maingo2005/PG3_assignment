@@ -1,0 +1,90 @@
+﻿  main.cpp
+C:\Users\MAINGO SHIZUKA\OneDrive\デスクトップ\日本工学院専門学校\PG3_課題フォルダ\PG3_assignment\main.cpp(18,30): warning C4244: 'return': 'Type2' から 'Type' への変換です。データが失われる可能性があります。
+C:\Users\MAINGO SHIZUKA\OneDrive\デスクトップ\日本工学院専門学校\PG3_課題フォルダ\PG3_assignment\main.cpp(18,30): warning C4244:         with
+C:\Users\MAINGO SHIZUKA\OneDrive\デスクトップ\日本工学院専門学校\PG3_課題フォルダ\PG3_assignment\main.cpp(18,30): warning C4244:         [
+C:\Users\MAINGO SHIZUKA\OneDrive\デスクトップ\日本工学院専門学校\PG3_課題フォルダ\PG3_assignment\main.cpp(18,30): warning C4244:             Type2=double
+C:\Users\MAINGO SHIZUKA\OneDrive\デスクトップ\日本工学院専門学校\PG3_課題フォルダ\PG3_assignment\main.cpp(18,30): warning C4244:         ]
+C:\Users\MAINGO SHIZUKA\OneDrive\デスクトップ\日本工学院専門学校\PG3_課題フォルダ\PG3_assignment\main.cpp(18,30): warning C4244:         and
+C:\Users\MAINGO SHIZUKA\OneDrive\デスクトップ\日本工学院専門学校\PG3_課題フォルダ\PG3_assignment\main.cpp(18,30): warning C4244:         [
+C:\Users\MAINGO SHIZUKA\OneDrive\デスクトップ\日本工学院専門学校\PG3_課題フォルダ\PG3_assignment\main.cpp(18,30): warning C4244:             Type=float
+C:\Users\MAINGO SHIZUKA\OneDrive\デスクトップ\日本工学院専門学校\PG3_課題フォルダ\PG3_assignment\main.cpp(18,30): warning C4244:         ]
+  C:\Users\MAINGO SHIZUKA\OneDrive\デスクトップ\日本工学院専門学校\PG3_課題フォルダ\PG3_assignment\main.cpp(18,30):
+  テンプレートインスタンス化コンテキスト (最初に最も古いもの) は
+  	C:\Users\MAINGO SHIZUKA\OneDrive\デスクトップ\日本工学院専門学校\PG3_課題フォルダ\PG3_assignment\main.cpp(31,31):
+  	コンパイル対象の クラス テンプレート インスタンス化 'TemplateClass<float,double>' のリファレンスを確認してください
+  	C:\Users\MAINGO SHIZUKA\OneDrive\デスクトップ\日本工学院専門学校\PG3_課題フォルダ\PG3_assignment\main.cpp(11,7):
+  	クラス テンプレート メンバー関数 'Type TemplateClass<Type,double>::Min(void)' のコンパイル中
+          with
+          [
+              Type=float
+          ]
+  		C:\Users\MAINGO SHIZUKA\OneDrive\デスクトップ\日本工学院専門学校\PG3_課題フォルダ\PG3_assignment\main.cpp(38,117):
+  		'main' の 'TemplateClass<float,double>::Min' への最初の参照を参照してください
+  
+C:\Users\MAINGO SHIZUKA\OneDrive\デスクトップ\日本工学院専門学校\PG3_課題フォルダ\PG3_assignment\main.cpp(18,30): warning C4244: 'return': 'Type2' から 'Type' への変換です。データが失われる可能性があります。
+C:\Users\MAINGO SHIZUKA\OneDrive\デスクトップ\日本工学院専門学校\PG3_課題フォルダ\PG3_assignment\main.cpp(18,30): warning C4244:         with
+C:\Users\MAINGO SHIZUKA\OneDrive\デスクトップ\日本工学院専門学校\PG3_課題フォルダ\PG3_assignment\main.cpp(18,30): warning C4244:         [
+C:\Users\MAINGO SHIZUKA\OneDrive\デスクトップ\日本工学院専門学校\PG3_課題フォルダ\PG3_assignment\main.cpp(18,30): warning C4244:             Type2=int
+C:\Users\MAINGO SHIZUKA\OneDrive\デスクトップ\日本工学院専門学校\PG3_課題フォルダ\PG3_assignment\main.cpp(18,30): warning C4244:         ]
+C:\Users\MAINGO SHIZUKA\OneDrive\デスクトップ\日本工学院専門学校\PG3_課題フォルダ\PG3_assignment\main.cpp(18,30): warning C4244:         and
+C:\Users\MAINGO SHIZUKA\OneDrive\デスクトップ\日本工学院専門学校\PG3_課題フォルダ\PG3_assignment\main.cpp(18,30): warning C4244:         [
+C:\Users\MAINGO SHIZUKA\OneDrive\デスクトップ\日本工学院専門学校\PG3_課題フォルダ\PG3_assignment\main.cpp(18,30): warning C4244:             Type=float
+C:\Users\MAINGO SHIZUKA\OneDrive\デスクトップ\日本工学院専門学校\PG3_課題フォルダ\PG3_assignment\main.cpp(18,30): warning C4244:         ]
+  C:\Users\MAINGO SHIZUKA\OneDrive\デスクトップ\日本工学院専門学校\PG3_課題フォルダ\PG3_assignment\main.cpp(18,30):
+  テンプレートインスタンス化コンテキスト (最初に最も古いもの) は
+  	C:\Users\MAINGO SHIZUKA\OneDrive\デスクトップ\日本工学院専門学校\PG3_課題フォルダ\PG3_assignment\main.cpp(30,28):
+  	コンパイル対象の クラス テンプレート インスタンス化 'TemplateClass<float,int>' のリファレンスを確認してください
+  	C:\Users\MAINGO SHIZUKA\OneDrive\デスクトップ\日本工学院専門学校\PG3_課題フォルダ\PG3_assignment\main.cpp(11,7):
+  	クラス テンプレート メンバー関数 'Type TemplateClass<Type,int>::Min(void)' のコンパイル中
+          with
+          [
+              Type=float
+          ]
+  		C:\Users\MAINGO SHIZUKA\OneDrive\デスクトップ\日本工学院専門学校\PG3_課題フォルダ\PG3_assignment\main.cpp(37,108):
+  		'main' の 'TemplateClass<float,int>::Min' への最初の参照を参照してください
+  
+C:\Users\MAINGO SHIZUKA\OneDrive\デスクトップ\日本工学院専門学校\PG3_課題フォルダ\PG3_assignment\main.cpp(18,30): warning C4244: 'return': 'Type2' から 'Type' への変換です。データが失われる可能性があります。
+C:\Users\MAINGO SHIZUKA\OneDrive\デスクトップ\日本工学院専門学校\PG3_課題フォルダ\PG3_assignment\main.cpp(18,30): warning C4244:         with
+C:\Users\MAINGO SHIZUKA\OneDrive\デスクトップ\日本工学院専門学校\PG3_課題フォルダ\PG3_assignment\main.cpp(18,30): warning C4244:         [
+C:\Users\MAINGO SHIZUKA\OneDrive\デスクトップ\日本工学院専門学校\PG3_課題フォルダ\PG3_assignment\main.cpp(18,30): warning C4244:             Type2=double
+C:\Users\MAINGO SHIZUKA\OneDrive\デスクトップ\日本工学院専門学校\PG3_課題フォルダ\PG3_assignment\main.cpp(18,30): warning C4244:         ]
+C:\Users\MAINGO SHIZUKA\OneDrive\デスクトップ\日本工学院専門学校\PG3_課題フォルダ\PG3_assignment\main.cpp(18,30): warning C4244:         and
+C:\Users\MAINGO SHIZUKA\OneDrive\デスクトップ\日本工学院専門学校\PG3_課題フォルダ\PG3_assignment\main.cpp(18,30): warning C4244:         [
+C:\Users\MAINGO SHIZUKA\OneDrive\デスクトップ\日本工学院専門学校\PG3_課題フォルダ\PG3_assignment\main.cpp(18,30): warning C4244:             Type=int
+C:\Users\MAINGO SHIZUKA\OneDrive\デスクトップ\日本工学院専門学校\PG3_課題フォルダ\PG3_assignment\main.cpp(18,30): warning C4244:         ]
+  C:\Users\MAINGO SHIZUKA\OneDrive\デスクトップ\日本工学院専門学校\PG3_課題フォルダ\PG3_assignment\main.cpp(18,30):
+  テンプレートインスタンス化コンテキスト (最初に最も古いもの) は
+  	C:\Users\MAINGO SHIZUKA\OneDrive\デスクトップ\日本工学院専門学校\PG3_課題フォルダ\PG3_assignment\main.cpp(29,29):
+  	コンパイル対象の クラス テンプレート インスタンス化 'TemplateClass<int,double>' のリファレンスを確認してください
+  	C:\Users\MAINGO SHIZUKA\OneDrive\デスクトップ\日本工学院専門学校\PG3_課題フォルダ\PG3_assignment\main.cpp(11,7):
+  	クラス テンプレート メンバー関数 'Type TemplateClass<Type,double>::Min(void)' のコンパイル中
+          with
+          [
+              Type=int
+          ]
+  		C:\Users\MAINGO SHIZUKA\OneDrive\デスクトップ\日本工学院専門学校\PG3_課題フォルダ\PG3_assignment\main.cpp(36,111):
+  		'main' の 'TemplateClass<int,double>::Min' への最初の参照を参照してください
+  
+C:\Users\MAINGO SHIZUKA\OneDrive\デスクトップ\日本工学院専門学校\PG3_課題フォルダ\PG3_assignment\main.cpp(18,30): warning C4244: 'return': 'Type2' から 'Type' への変換です。データが失われる可能性があります。
+C:\Users\MAINGO SHIZUKA\OneDrive\デスクトップ\日本工学院専門学校\PG3_課題フォルダ\PG3_assignment\main.cpp(18,30): warning C4244:         with
+C:\Users\MAINGO SHIZUKA\OneDrive\デスクトップ\日本工学院専門学校\PG3_課題フォルダ\PG3_assignment\main.cpp(18,30): warning C4244:         [
+C:\Users\MAINGO SHIZUKA\OneDrive\デスクトップ\日本工学院専門学校\PG3_課題フォルダ\PG3_assignment\main.cpp(18,30): warning C4244:             Type2=float
+C:\Users\MAINGO SHIZUKA\OneDrive\デスクトップ\日本工学院専門学校\PG3_課題フォルダ\PG3_assignment\main.cpp(18,30): warning C4244:         ]
+C:\Users\MAINGO SHIZUKA\OneDrive\デスクトップ\日本工学院専門学校\PG3_課題フォルダ\PG3_assignment\main.cpp(18,30): warning C4244:         and
+C:\Users\MAINGO SHIZUKA\OneDrive\デスクトップ\日本工学院専門学校\PG3_課題フォルダ\PG3_assignment\main.cpp(18,30): warning C4244:         [
+C:\Users\MAINGO SHIZUKA\OneDrive\デスクトップ\日本工学院専門学校\PG3_課題フォルダ\PG3_assignment\main.cpp(18,30): warning C4244:             Type=int
+C:\Users\MAINGO SHIZUKA\OneDrive\デスクトップ\日本工学院専門学校\PG3_課題フォルダ\PG3_assignment\main.cpp(18,30): warning C4244:         ]
+  C:\Users\MAINGO SHIZUKA\OneDrive\デスクトップ\日本工学院専門学校\PG3_課題フォルダ\PG3_assignment\main.cpp(18,30):
+  テンプレートインスタンス化コンテキスト (最初に最も古いもの) は
+  	C:\Users\MAINGO SHIZUKA\OneDrive\デスクトップ\日本工学院専門学校\PG3_課題フォルダ\PG3_assignment\main.cpp(28,28):
+  	コンパイル対象の クラス テンプレート インスタンス化 'TemplateClass<int,float>' のリファレンスを確認してください
+  	C:\Users\MAINGO SHIZUKA\OneDrive\デスクトップ\日本工学院専門学校\PG3_課題フォルダ\PG3_assignment\main.cpp(11,7):
+  	クラス テンプレート メンバー関数 'Type TemplateClass<Type,float>::Min(void)' のコンパイル中
+          with
+          [
+              Type=int
+          ]
+  		C:\Users\MAINGO SHIZUKA\OneDrive\デスクトップ\日本工学院専門学校\PG3_課題フォルダ\PG3_assignment\main.cpp(35,110):
+  		'main' の 'TemplateClass<int,float>::Min' への最初の参照を参照してください
+  
+  PG3.vcxproj -> C:\Users\MAINGO SHIZUKA\OneDrive\デスクトップ\日本工学院専門学校\PG3_課題フォルダ\PG3_assignment\x64\Debug\PG3.exe
