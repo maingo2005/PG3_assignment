@@ -1,35 +1,53 @@
 #include <stdio.h>
 
-class Animal {
+class Isuuti {
 public:
-	virtual void Voice() {
-		printf("“®•¨\n");
-	}
+	virtual void Size() = 0;
+	virtual void Draw() = 0;
+
+protected:
+	float size;
+	float radius;
 };
 
-class Dog :public Animal {
+class Circle :public Isuuti {
 public:
-	void Voice() {
-		printf("ƒƒ“\n");
-	}
+	void Size();
+	void Draw() { printf("–ÊÏ@%f\n", size); };
 };
 
-class Cat :public Animal {
+class Rectangle :public Isuuti {
 public:
-	void Voice() {
-		printf("ƒjƒƒƒ“\n");
-	}
+	void Size()override;
+	void Draw() { printf("–ÊÏ@%f\n", size); };
 };
 
-int main() {
+void Isuuti::Size() {}
 
-	Animal* animal[2] = { new Dog,new Cat };
+void Circle::Size() {
+	radius = 5.0f;
+	printf("‰~‚Ì”¼Œa@%f\n", radius);
+	size = radius * radius * 3.14f;
+}
 
-	animal[0]->Voice();
-	animal[1]->Voice();
+void Rectangle::Size() {
+	radius = 5.0f;
+	printf("’ZŒ`‚Ì”¼Œa@%f\n", radius);
+	size = radius * 2.0f * radius * 2.0f;
+}
 
-	delete animal[0];
-	delete animal[1];
+int main(void) {
+
+	Isuuti* ishape[2] = { new Circle,new Rectangle };
+
+	ishape[0]->Size();
+	ishape[1]->Size();
+
+	ishape[0]->Draw();
+	ishape[1]->Draw();
+
+	delete ishape[0];
+	delete ishape[1];
 
 	return 0;
 }
