@@ -14,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "main.cpp",
               "ToolTip": "C:\\Users\\MAINGO SHIZUKA\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\\u65E5\u672C\u5DE5\u5B66\u9662\u5C02\u9580\u5B66\u6821\\PG3_\u8AB2\u984C\u30D5\u30A9\u30EB\u30C0\\PG3_assignment\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAA6AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-06-07T04:01:13.376Z",
               "EditorCaption": ""
